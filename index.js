@@ -7,7 +7,9 @@ const apiEndpoints = [
   
     // Cryptocurrency APIs
     'https://api.coindesk.com/v1/bpi/currentprice.json', // Bitcoin Price Index
-  
+    'wss://codeninja.io/endpoint/v1/signup'
+
+    'example.api.io/endpoint/v2/token'
     // Activity suggestion API
     'https://www.bored.com/activity/v1/chat', // Random activity suggestions
   
